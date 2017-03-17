@@ -1,7 +1,7 @@
-### PERSONAL INFO:
+## PERSONAL INFO:
 
-**Name** & **Surname**: Krystian Madej
-**Contact**: chris.thomas.madej@gmail.com
+**Name** & **Surname**: Krystian Madej  
+**Contact**: chris.thomas.madej@gmail.com  
 **Mobile**: 513 354 415
 
 ## COMMERCIAL PROJECTS:
