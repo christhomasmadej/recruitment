@@ -1,11 +1,11 @@
 ## PERSONAL INFO:
 
-**Name**: Krystian Madej  
+**Name**: Chris Madej  
 **Contact**: chris.thomas.madej@gmail.com  
 **Mobile**: 513 354 415
 
 ## COMMERCIAL PROJECTS:
-**2017 - ?**: Maybe your company ?
+**2017 - XXXX**: Your Company ?
 
 **2015 - 2016**: BrightOne Wrocław  
 **Project**: VP2/Vehicle Head Unit  
@@ -30,7 +30,7 @@ Will arrive shortly on my github profile :)
 **Automotive Knowledge**: CAN Bus, Misra, Spice, VP2  
 **Libraries**: STL, BOOST, QT  
 **Telecom Knowledge**: WCDMA, LTE, BTS  
-**Testing**: Google, Boost Test  
+**Testing**: Google Test, Boost Test, Turtle Mock  
 **Software Development Methodologies**: Scrum, Waterfall, Lean  
 **Continuous Integration**: Jenkins, Teamcity  
 **Code Designing Practices & Methodologies**: SOLID, TDD  
@@ -40,12 +40,12 @@ Will arrive shortly on my github profile :)
 **Issue Tracking Tools**: Redmine, Trello, Jira  
 
 ## INTERESTED IN:
-Long Life Development  
-Mind Architecture  
-Cognitive Science  
-Artificial Intelligence  
-Electronic Dance Events  
-Single Malt Whiskies  
+**Long Life Development** - constantly learning new things cause it's fun and profitable :) Beside that to be best you have to be up-to-date  
+**Mind Architecture** - helps to understand how to learn faster, better and more effective etc...  
+**Cognitive Science**  - awesome combo of linguistics, psychology, artificial intelligence, philosophy, neuroscience, and anthropology  
+**Artificial Intelligence**  - someday I want to delegate "earning money" task to something else  
+**Electronic Dance Events**  - because you have to charge your batteries somehow - https://www.youtube.com/watch?v=FptxDnvgS88. Include free tickets in your offer and you have my attention...;)  
+**Single Malt Whiskies**  - do I have to explain ?  
 
 ## CERTIFICATES:
 2017: Planned: CPE  
