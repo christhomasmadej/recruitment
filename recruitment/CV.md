@@ -54,6 +54,6 @@ https://www.youtube.com/watch?v=FptxDnvgS88. Include free tickets in your offer 
 2015: CAE  
 2013: FCE  
 
-## PERMISSION
+## PERMISSION:
 
 I hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the Law on Personal Data Protection of 28 August 1997.
