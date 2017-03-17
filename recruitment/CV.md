@@ -40,14 +40,20 @@ Will arrive shortly on my github profile :)
 **Issue Tracking Tools**: Redmine, Trello, Jira  
 
 ## INTERESTED IN:
-**Long Life Development** - constantly learning new things cause it's fun and profitable :) Beside that to be best you have to be up-to-date  
+**Long Life Development** - constantly learning new things cause it's fun and profitable :)  
+Beside that to be best you have to be up-to-date :)  
 **Mind Architecture** - helps to understand how to learn faster, better and more effective etc...  
-**Cognitive Science**  - awesome combo of linguistics, psychology, artificial intelligence, philosophy, neuroscience, and anthropology  
-**Artificial Intelligence**  - someday I want to delegate "earning money" task to something else  
-**Electronic Dance Events**  - because you have to charge your batteries somehow - https://www.youtube.com/watch?v=FptxDnvgS88. Include free tickets in your offer and you have my attention...;)  
+**Cognitive Science**  - awesome combo of linguistics, psychology, artificial intelligence, philosophy, neuroscience, and anthropology.  
+**Artificial Intelligence**  - someday I want to delegate "earning money" task to something else.  
+**Electronic Dance Events**  - because you have to charge your batteries somehow :)  
+https://www.youtube.com/watch?v=FptxDnvgS88. Include free tickets in your offer and you have my attention...;)  
 **Single Malt Whiskies**  - do I have to explain ?  
 
 ## CERTIFICATES:
 2017: Planned: CPE  
 2015: CAE  
 2013: FCE  
+
+## PERMISSION
+
+I hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the Law on Personal Data Protection of 28 August 1997.
