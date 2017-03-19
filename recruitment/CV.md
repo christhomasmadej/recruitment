@@ -47,7 +47,7 @@ Beside that to be best you have to be up-to-date :)
 **Artificial Intelligence**  - someday I want to delegate "earning money" task to something else.  
 **Electronic Dance Events**  - because you have to charge your batteries somehow :)  
 https://www.youtube.com/watch?v=FptxDnvgS88. Include free tickets in your offer and you have my attention...;)  
-**Single Malt Whiskies**  - do I have to explain ?  
+**Single Malt Whiskies**  - participation in whisky tasting events and investment advisement  
 
 ## CERTIFICATES:
 2017: Planned: CPE  
