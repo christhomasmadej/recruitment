@@ -45,10 +45,9 @@ Will arrive shortly on my github profile :)
 Beside that to be best you have to be up-to-date.  
 **Mind Architecture** - helps to understand how to learn faster, better and more effective etc...  
 **Cognitive Science**  - awesome combo of linguistics, psychology, artificial intelligence, philosophy, neuroscience, and anthropology. 
-Visualization of this science concepts can be storyline of Transcendence (2014) movie.
+Visualization of this science concepts can be storyline of Transcendence (2014) movie.  
 **Artificial Intelligence**  - someday I want to delegate "earning money" task to something else.  
-**Electronic Dance Events**  - because you have to charge your batteries somehow. 
-youtube.com/watch?v=FptxDnvgS88. Include free tickets in your offer and you have my attention...;)  
+**Electronic Dance Events**  - because you have to charge your batteries somehow. Include free tickets in your offer and you have my attention...;)  
 **Single Malt Whiskies**  - participation in whisky tasting events and investment advisement  
 
 ## CERTIFICATES:
