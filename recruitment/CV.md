@@ -44,7 +44,6 @@ Will arrive shortly on my github profile :)
 **Long Life Development** - constantly learning new things cause it's fun and profitable :)  
 **Mind Architecture** - helps to understand how to learn faster, better and more effective etc...  
 **Cognitive Science**  - combo of linguistics, psychology, artificial intelligence, philosophy, neuroscience & anthropology. 
-Visualization of this science concepts can be storyline of Transcendence (2014) movie.  
 **Artificial Intelligence**  - someday I want to delegate "earning money" task to something else.  
 **Electronic Dance Events**  - include free tickets to Tomorrowland in your offer and you have my attention...;)  
 **Single Malt Whiskies**  - participation in whisky tasting events and investment advisement  
