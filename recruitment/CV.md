@@ -40,6 +40,11 @@ Will arrive shortly on my github profile :)
 **Issue Tracking Tools**: Redmine, Trello, Jira  
 **Technologies you need**: I can specialise in all unknown/secret technologies you are using :)  
 
+## EDUCATION:
+**University**: Wroclaw University of Technology  
+**Subject**: Computer Science  
+**Specialisation**: Software Engineering
+
 ## INTERESTED IN:
 **Long Life Development** - constantly learning new things cause it's fun and profitable :)  
 **Mind Architecture** - helps to understand how to learn faster, better and more effective etc...  

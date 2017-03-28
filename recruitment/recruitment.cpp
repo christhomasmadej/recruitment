@@ -35,9 +35,14 @@ bool isPalindrome(int n)
 	auto number = to_string(n);
 	auto size = number.size();
 
-	for (auto begin = number.begin(), end = number.end()-1; begin <= end; begin++, end--)
+	auto begin = number.begin();
+	auto end = number.end() - 1;
+
+	while (result && begin <= end)
 	{
 		result = *begin == *end ? true : false;
+		begin++;
+		end--;
 	}
 
 	return result;
@@ -62,14 +67,13 @@ int makeReflectionViaMiddle(int arg)
 
 void nextSmallestPalindrome(int arg)
 {
-	bool condition = true;
 	auto initialArg = arg;
-	while (condition)
+	while (true)
 	{
 		arg = makeReflectionViaMiddle(arg);
 		if (isPalindrome(arg) && arg > initialArg)
 		{
-			condition = false;
+			break;
 		}
 		else
 		{
