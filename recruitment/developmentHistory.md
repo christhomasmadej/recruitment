@@ -1,8 +1,6 @@
 ## IN THIS FILE YOU'LL FIND MY DEVELOPMENT HISTORY
 
-Maybe someday this development history will evolve into roots of something bigger like personal blog or ebook with title: "Mastering coding for dummies. Edition 0x01".  
-Well I think I will be posting here some interesting links/stack overflow questions & answer and in general everything that will catch my attention.  
-Probably I will also write down some comments for each entry but I am not sure :)  
+Maybe someday this development history will evolve into roots of something bigger like personal blog or ebook with title: "Mastering coding for dummies. Edition 0x01". Well I think I will be posting here some interesting links/stack overflow questions & answer and in general everything that will catch my attention. Probably I will also write down some comments for each entry but I am not sure :)  
 
 30.03.2016  
 
