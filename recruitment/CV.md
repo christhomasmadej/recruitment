@@ -38,7 +38,12 @@ Will arrive shortly on my github profile :)
 **Code Analysis & Coverage**: Valgrind, LCov/GCov  
 **Coding Tools**: Visual Studio, QtCreator  
 **Issue Tracking Tools**: Redmine, Trello, Jira  
-**Technologies you need**: I can specialise in all unknown/secret technologies you are using :)  
+**Technologies you need**: I can specialise in all unknown/secret technologies you are using :)
+
+## EDUCATION:
+**University**: Wroclaw University of Technology  
+**Subject**: Computer Science  
+**Specialisation**: Software Engineering  
 
 ## EDUCATION:
 **University**: Wroclaw University of Technology  
