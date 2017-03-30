@@ -8,4 +8,4 @@ http://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap#7
 This question was source of my failure few times so I think it's finally time to sort it out.  
 
 http://stackoverflow.com/questions/15669592/what-are-the-differences-between-concepts-and-template-constraints  
-Beside that, today I have decided to refresh my knowledge on metaprograming with focus on concepts and constraits.
+Beside memory issues, today I have decided to refresh my knowledge on metaprograming with focus on concepts and constraits. Code will arrive in coming days.  
