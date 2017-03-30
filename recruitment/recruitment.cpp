@@ -1,10 +1,10 @@
-// Questions I was asked at interview
-
-#include "stdafx.h"
 #include <iostream>
 #include <string>
 
 using namespace std;
+
+// Questions I was asked at interview
+// Well maybe I will also post here some questions I regret I was never asked.
 
 // 1. Implement singleton
 class Singleton
@@ -50,7 +50,15 @@ bool isPalindrome(string& number)
 string sliceInHalf(string& number)
 {
 	auto size = number.size();
-	auto middle = size / 2;
+	int middle;
+	if (size % 2 != 0)
+	{
+		middle = size / 2 + 1;
+	}
+	else
+	{
+		middle = size / 2;
+	}
 
 	number = number.substr(0, middle);
 
@@ -63,7 +71,7 @@ string appendReversed(string& number)
 
 	for (int i = 0; i < size; i++)
 	{
-		auto digit = number.at(size - 1 - i);
+		auto digit = number.at(size - i);
 		number.push_back(digit);
 	}
 
@@ -89,7 +97,6 @@ bool greaterThanInitialValue(const string& initialValue, const string& newValue)
 	auto newV = stoi(newValue);
 	return newV > initialV;
 }
-
 
 void nextSmallestPalindrome(string& number)
 {
@@ -130,7 +137,10 @@ void twoDimensionalArrayInCpp()
 
 int main()
 {
-	string number = to_string(12345);
+	// TODO
+	// Edge case like "9999" and some more testing.
+	// Beside that could be good to integrate those interview questions with some testing plugin to visual studio.
+	string number = to_string(123);
 	nextSmallestPalindrome(number);
 	system("pause");
     return 0;
