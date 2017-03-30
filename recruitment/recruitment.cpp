@@ -29,10 +29,9 @@ public:
 // For example, if the input number is “2 3 5 4 5”, the output should be “2 3 6 3 2”.
 // If the input number is “9 9 9”, the output should be “1 0 0 1”.
 
-bool isPalindrome(int n)
+bool isPalindrome(string& number)
 {
 	auto result = true;
-	auto number = to_string(n);
 	auto size = number.size();
 
 	auto begin = number.begin();
@@ -48,56 +47,91 @@ bool isPalindrome(int n)
 	return result;
 }
 
-int makeReflectionViaMiddle(int arg)
+string sliceInHalf(string& number)
 {
-	auto number = to_string(arg);
 	auto size = number.size();
 	auto middle = size / 2;
 
 	number = number.substr(0, middle);
 
-	for (int i = 0; i < middle; i++)
+	return number;
+}
+
+string appendReversed(string& number)
+{
+	auto size = number.size();
+
+	for (int i = 0; i < size; i++)
 	{
-		auto digit = number.at(middle - 1 - i);
+		auto digit = number.at(size - 1 - i);
 		number.push_back(digit);
 	}
 
-	return stoi(number);
+	return number;
 }
 
-void nextSmallestPalindrome(int arg)
+void makePalindrome(string& number)
 {
-	auto initialArg = arg;
-	while (true)
+	sliceInHalf(number);
+	appendReversed(number);
+}
+
+void makePalindromeWithIncrement(string& number)
+{
+	sliceInHalf(number);
+	number = to_string(stoi(number)+1);
+	appendReversed(number);
+}
+
+bool greaterThanInitialValue(const string& initialValue, const string& newValue)
+{
+	auto initialV = stoi(initialValue);
+	auto newV = stoi(newValue);
+	return newV > initialV;
+}
+
+
+void nextSmallestPalindrome(string& number)
+{
+	auto initialValue = number;
+	while (!isPalindrome(number) && !greaterThanInitialValue(initialValue, number))
 	{
-		arg = makeReflectionViaMiddle(arg);
-		if (isPalindrome(arg) && arg > initialArg)
+		makePalindrome(number);
+
+		if (!greaterThanInitialValue(initialValue, number))
 		{
-			break;
-		}
-		else
-		{
-			//TODO case 999
-			auto number = to_string(arg);
-			auto size = number.size();
-			auto middle = size / 2;
-			number = number.substr(0, middle);
-			arg = stoi(number);
-			arg++;
-			number = to_string(arg);
-			for (int i = 0; i < middle; i++)
-			{
-				number.push_back('0');
-			}
-			arg = stoi(number);
+			makePalindromeWithIncrement(number);
 		}
 	}
-	cout << arg << endl;
+
+	cout << number << endl;
+}
+
+// 3. Dynamic 2-D array in C & C++
+void twoDimensionalArrayInC()
+{
+	int rows = 5, columns = 10;
+	int** a = (int**)malloc(rows * sizeof(int*));
+	for (int i = 0; i < rows; i++) 
+	{
+		a[i] = (int*)malloc(columns * sizeof(int));
+	}
+}
+
+void twoDimensionalArrayInCpp()
+{
+	int rows = 5, columns = 10;
+	int** a = new int*[rows];
+	for (int i = 0; i < rows; i++)
+	{
+		a[i] = new int[columns];
+	}
 }
 
 int main()
 {
-	nextSmallestPalindrome(999);
+	string number = to_string(12345);
+	nextSmallestPalindrome(number);
 	system("pause");
     return 0;
 }
