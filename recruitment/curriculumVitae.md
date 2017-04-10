@@ -43,11 +43,6 @@ Will arrive shortly on my github profile :)
 ## EDUCATION:
 **University**: Wroclaw University of Technology  
 **Subject**: Computer Science  
-**Specialisation**: Software Engineering  
-
-## EDUCATION:
-**University**: Wroclaw University of Technology  
-**Subject**: Computer Science  
 **Specialisation**: Software Engineering
 
 ## INTERESTED IN:
