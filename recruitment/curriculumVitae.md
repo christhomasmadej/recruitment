@@ -28,7 +28,7 @@ Will arrive shortly on my github profile :)
 
 ## COMPETENCIES/KEY-WORDS FOR RECRUITERS:
 **Core Language**: C & C++ 7/10  
-**Scripting**: Python - 6/10
+**Scripting**: Python - 6/10  
 **Database**: SQL - 5/10  
 **Design Patterns**: 7/10  
 **Assembler**: 5/10  
