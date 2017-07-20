@@ -2,10 +2,14 @@
 
 **Name**: Chris Madej  
 **Contact**: chris.thomas.madej@gmail.com  
-**Mobile**: 513 354 415
+**Mobile**: 513 354 415  
 
 ## COMMERCIAL PROJECTS:
-**2017 - XXXX**: Your Company ?
+**2017 - Now**: Nefeon Software  
+**Project**: Small-scale application  
+**Role**: Software Architect & Software Developer  
+**Description**: Small desktop project for managing public data.  
+**Technologies**: Visual Studio, QtCreator, SQL.  
 
 **2015 - 2016**: BrightOne Wrocław  
 **Project**: VP2/Vehicle Head Unit  
@@ -24,7 +28,8 @@ Will arrive shortly on my github profile :)
 
 ## COMPETENCIES/KEY-WORDS FOR RECRUITERS:
 **Core Language**: C & C++ 7/10  
-**Scripting**: Python - 5/10  
+**Scripting**: Python - 6/10
+**Database**: SQL - 5/10  
 **Design Patterns**: 7/10  
 **Assembler**: 5/10  
 **Automotive Knowledge**: CAN Bus, Misra, Spice, VP2  
