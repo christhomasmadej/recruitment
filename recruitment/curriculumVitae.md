@@ -5,11 +5,11 @@
 **Mobile**: 513 354 415  
 
 ## COMMERCIAL PROJECTS:
-**2017 - Now**: Nefeon Software  
-**Project**: Small-scale application  
+**2017 - Now**: SHH
+**Project**: GIS Desktop application
 **Role**: Software Architect & Software Developer  
-**Description**: Small desktop project for managing public data.  
-**Technologies**: Visual Studio, QtCreator, SQL.  
+**Description**: Desktop application for GIS specialists focused on spatial data mgmt.  
+**Technologies**: Embarcadero C++ Builder XE10, PostgreSQL, PgAdmin, SVN, TatukGIS, LMD, TMS
 
 **2015 - 2016**: BrightOne Wrocław  
 **Project**: VP2/Vehicle Head Unit  
@@ -23,8 +23,8 @@
 **Description**: Development of BTS Software – implementation of new features & maintenance of existing code. Sometimes TDD and pair programming. Working in Scrum. Mandatory code review before commit  
 **Technologies**: Visual Studio, QtCreator, Teamcity, Jenkins, SVN, Valgrind, Turtle Mock, Boost Test  
 
-## PRIVATE PROJECTS/PROJECTS THAT WILL MAKE ME RICH IN THE FUTURE:
-Will arrive shortly on my github profile :)
+## AFTER WORK ACTIVITIES:
+**Google Developers Group Wrocław**: Co-organizer of GDG Wrocław IT-events.
 
 ## COMPETENCIES/KEY-WORDS FOR RECRUITERS:
 **Core Language**: C & C++ 7/10  
@@ -55,11 +55,11 @@ Will arrive shortly on my github profile :)
 **Mind Architecture** - helps to understand how to learn faster, better and more effective etc...  
 **Cognitive Science**  - combo of linguistics, psychology, artificial intelligence, philosophy, neuroscience & anthropology. 
 **Artificial Intelligence**  - someday I want to delegate "earning money" task to something else.  
-**Electronic Dance Events**  - include free tickets to Tomorrowland in your offer and you have my attention...;)  
+**Electronic Dance Events**  - include free tickets to Tomorrowland in your offer and you have my attention.
 **Single Malt Whiskies**  - participation in whisky tasting events and investment advisement  
 
 ## CERTIFICATES:
-2017: Planned: CPE  
+2019: Planned: CPE  
 2015: CAE  
 2013: FCE  
 
