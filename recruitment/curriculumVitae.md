@@ -55,7 +55,7 @@
 **Mind Architecture** - helps to understand how to learn faster, better and more effective etc...  
 **Cognitive Science**  - combo of linguistics, psychology, artificial intelligence, philosophy, neuroscience & anthropology. 
 **Artificial Intelligence**  - someday I want to delegate "earning money" task to something else.  
-**Electronic Dance Events**  - include free tickets to Tomorrowland in your offer and you have my attention.
+**Electronic Dance Events**  - include free tickets to Tomorrowland in your offer and you have my attention.  
 **Single Malt Whiskies**  - participation in whisky tasting events and investment advisement  
 
 ## CERTIFICATES:
