@@ -5,8 +5,8 @@
 **Mobile**: 513 354 415  
 
 ## COMMERCIAL PROJECTS:
-**2017 - Now**: SHH
-**Project**: GIS Desktop application
+**2017 - Now**: SHH  
+**Project**: GIS Desktop application  
 **Role**: Software Architect & Software Developer  
 **Description**: Desktop application for GIS specialists focused on spatial data mgmt.  
 **Technologies**: Embarcadero C++ Builder XE10, PostgreSQL, PgAdmin, SVN, TatukGIS, LMD, TMS
