@@ -26,8 +26,8 @@ public:
 
 // 2. Find nextClosestPalindrome
 // Given a number, find the next smallest palindrome larger than this number. 
-// For example, if the input number is “2 3 5 4 5”, the output should be “2 3 6 3 2”.
-// If the input number is “9 9 9”, the output should be “1 0 0 1”.
+// For example, if the input number is "2 3 5 4 5", the output should be "2 3 6 3 2".
+// If the input number is "9 9 9", the output should be "1 0 0 1".
 
 bool isPalindrome(string& number)
 {
@@ -133,6 +133,27 @@ void twoDimensionalArrayInCpp()
 	{
 		a[i] = new int[columns];
 	}
+}
+
+void threeDimensionalArrayInCpp()
+{
+    int dimX = 100; int dimY = 100; int dimZ = 100;
+    int*** array;    // 3D array definition;
+    // begin memory allocation
+    array = new int**[dimX];
+    for(int x = 0; x < dimX; ++x)
+    {
+        array[x] = new int*[dimY];
+        for(int y = 0; y < dimY; ++y)
+        {
+            array[x][y] = new int[dimZ];
+            for(int z = 0; z < dimZ; ++z)
+            {
+                // initialize the values to whatever you want the default to be
+                array[x][y][z] = 0;
+            }
+        }
+    }
 }
 
 int main()
