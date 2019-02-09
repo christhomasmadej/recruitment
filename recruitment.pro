@@ -3,9 +3,10 @@ CONFIG += console c++11
 CONFIG -= app_bundle
 CONFIG -= qt
 
-SOURCES += main.cpp
+SOURCES += \
+    recruitment/main.cpp
 
 DISTFILES += \
-    coverLetter.md \
-    curriculumVitae.md \
-    developmentHistory.md
+    recruitment/coverLetter.md \
+    recruitment/curriculumVitae.md \
+    recruitment/developmentHistory.md
