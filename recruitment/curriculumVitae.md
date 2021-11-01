@@ -1,49 +1,65 @@
 ## PERSONAL INFO:
 
-**Name**: Chris Madej  
+**Name**: Krystian Madej  
 **Contact**: chris.thomas.madej@gmail.com  
 **Mobile**: 513 354 415  
 
 ## COMMERCIAL PROJECTS:
-**2017 - Now**: SHH  
+
+**04.2021 - Now**: xBerry / ADB SafteGate  
+**Project**: ACE-MAX Airport mgmt solution  
+**Role**: Senior C++ Software Developer  
+**Description**: Desktop application & distributed system for airport mgmt  
+**Technologies**: QtCreator, SVN & Git, Jira, Confluence, BitBucket  
+
+**03.2020 - 03.2021**: xBerry / ASML  
+**Project**: Twinscan Robot Arm Development  
+**Role**: Software Developer, Team Leader, Feature Integrator  
+**Description**: Embedded project for lithography machine  
+**Technologies**: WindRiver, IBM Rational ClearCase, DSL, IBM Rational ClearQuest, Git, BitBucket  
+
+**06.2017 - 09.2019**: SHH  
 **Project**: GIS Desktop application  
 **Role**: Software Architect & Software Developer  
 **Description**: Desktop application for GIS specialists focused on spatial data mgmt.  
 **Technologies**: Embarcadero C++ Builder XE10, PostgreSQL, PgAdmin, SVN, TatukGIS, LMD, TMS
 
-**2015 - 2016**: BrightOne Wrocław  
+**12.2015 - 07.2016**: BrightOne Wrocław  
 **Project**: VP2/Vehicle Head Unit  
 **Role**: C++ Software Developer  
 **Description**: Development of Vehicle Head Unit. Working in EcoDrive domain. Waterfall approach  
 **Technologies**: QtCreator, Visual Studio, WinCE, Vector CANoe, IBM Synergy, SPICE  
 
-**2013 – 2015**: Nokia Wrocław  
+**07.2013 – 04.2015**: Nokia Wrocław  
 **Project**: WCDMA OAM - Technical Reporting & Broadband Configuration  
 **Role**: C++ Software Developer  
 **Description**: Development of BTS Software – implementation of new features & maintenance of existing code. Sometimes TDD and pair programming. Working in Scrum. Mandatory code review before commit  
 **Technologies**: Visual Studio, QtCreator, Teamcity, Jenkins, SVN, Valgrind, Turtle Mock, Boost Test  
 
-## AFTER WORK ACTIVITIES:
-**Google Developers Group Wrocław**: Co-organizer of GDG Wrocław IT-events.
+<div style="page-break-after: always;"></div>
 
-## COMPETENCIES/KEY-WORDS FOR RECRUITERS:
-**Core Language**: C & C++ 7/10  
-**Scripting**: Python - 6/10  
-**Database**: SQL - 5/10  
-**Design Patterns**: 7/10  
-**Assembler**: 5/10  
+## COMMERCIAL ACTIVITIES:
+
+**10.2021 - Now**: NobleProg  
+**Role**: Software Trainer  
+**Description**: Trainings in C++  
+
+## COMPETENCIES:
+**Core Language**: C & C++  
+**Scripting**: Python  
+**Database**: SQL  
+**Mobile**: Android & Flutter  
 **Automotive Knowledge**: CAN Bus, Misra, Spice, VP2  
 **Libraries**: STL, BOOST, QT  
 **Telecom Knowledge**: WCDMA, LTE, BTS  
-**Testing**: Google Test, Boost Test, Turtle Mock  
+**Testing**: Google Test, Boost Test, Turtle Mock, Google Mock  
 **Software Development Methodologies**: Scrum, Waterfall, Lean  
 **Continuous Integration**: Jenkins, Teamcity  
 **Code Designing Practices & Methodologies**: SOLID, TDD  
-**Version Control**: GIT, SVN, IBM Synergy  
+**Version Control**: GIT, SVN, IBM Rational ClearCase  
 **Code Analysis & Coverage**: Valgrind, LCov/GCov  
 **Coding Tools**: Visual Studio, QtCreator  
 **Issue Tracking Tools**: Redmine, Trello, Jira  
-**Technologies you need**: I can specialise in all unknown/secret technologies you are using :)
 
 ## EDUCATION:
 **University**: Wroclaw University of Technology  
@@ -51,17 +67,15 @@
 **Specialisation**: Software Engineering
 
 ## INTERESTED IN:
-**Long Life Development** - constantly learning new things cause it's fun and profitable :)  
-**Mind Architecture** - helps to understand how to learn faster, better and more effective etc...  
-**Cognitive Science**  - combo of linguistics, psychology, artificial intelligence, philosophy, neuroscience & anthropology. 
-**Artificial Intelligence**  - someday I want to delegate "earning money" task to something else.  
-**Electronic Dance Events**  - include free tickets to Tomorrowland in your offer and you have my attention.  
-**Single Malt Whiskies**  - participation in whisky tasting events and investment advisement  
+**Cognitive Science** - combo of linguistics, psychology, artificial intelligence, philosophy, neuroscience.  
+**Artificial Intelligence** - future is now.  
+**SDLC** - developing my own project so knowledge from all software development stages.  
+**Cyber Security** - safety 1st.  
+**Reverse engineering & CTF** - rather spectating than acting but would like to develop in this area in future. Flappy bird injection into Super Mario was mind-blowing for me.  
 
 ## CERTIFICATES:
-2019: Planned: CPE  
-2015: CAE  
-2013: FCE  
+**2015**: CAE  
+**2013**: FCE  
 
 ## PERMISSION:
 
