@@ -32,7 +32,7 @@
 
 **Highlights**:  
 * Successfully delivered RED Arm Framework
-* Configured & Enabled Jenkins CD/CD with Git BOA
+* Configured & Enabled Jenkins CI/CD with Git BOA
 * As Team Leader performed estimation of upcoming Statement of Work
 
 <div style="page-break-after: always;"></div>
