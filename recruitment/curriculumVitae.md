@@ -7,6 +7,21 @@
 
 ## COMMERCIAL PROJECTS:
 
+### **03.2020 - 03.2021**: Team Expat / ASML  
+**Project**: Optical Column Group DUV: Projection, Illumination, Reticle Masking, Dose Control
+**Role**: Senior Software Designer
+**Description**: Working on firmware of Optical Column functional clusters
+**Technologies**: Wind River Workbench, IBM Rational ClearCase, DDF (DSL), IBM Rational ClearQuest, Git BOA, BitBucket, PolarionQA 
+* **C/C++17** was used to implement firmware
+* **DDF** was used as domain specific language
+* **Wind River Workbench** was used for testing and as development env (devbench, testbench)
+* **ClearCase** source control used before migration to Git BOA & BitBucket
+* **PolarionQA** requirements and automation of testing
+
+**Highlights**:  
+* Extending domain knowledge in embedded photolitography - one of the most crucial technologies in current era  
+* Member of dedicated taskforce of introduction to the group PolarionQA so automation of testing and requirements
+
 ### **04.2021 - 01.2022**: xBerry / ADB SafeGate  
 **Project**: OneControl  
 **Role**: Senior C++ Software Developer  
@@ -33,7 +48,7 @@
 **Highlights**:  
 * Successfully delivered RED Arm Framework
 * Configured & Enabled Jenkins CI/CD with Git BOA
-* As Team Leader performed estimation of upcoming Statement of Work
+* As Team Leader I took ownership of the project
 
 <div style="page-break-after: always;"></div>
 
@@ -76,7 +91,7 @@
 
 ## COMMERCIAL ACTIVITIES:
 
-**10.2021 - Now**: NobleProg  
+**10.2021 - 12.2022**: NobleProg  
 **Role**: Software Trainer  
 **Description**: Trainings in C++  
 **Courses**: Design Patterns, Software Testing with GMock & GTest, Advanced C++  
