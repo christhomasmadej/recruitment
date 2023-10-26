@@ -15,24 +15,26 @@
 * **C/C++17** was used to implement firmware
 * **DDF** was used as domain specific language
 * **Wind River Workbench** was used for testing and as development env (devbench, testbench)
-* **ClearCase** source control used before migration to Git BOA & BitBucket
-* **PolarionQA** requirements and automation of testing
+* **ClearCase** source control used before migration to Git & GitHub
+* **PolarionQA** requirements and generation of testing reports
 
 **Highlights**:  
 * Extending domain knowledge in embedded photolitography - one of the most crucial technologies in current era  
-* Member of dedicated taskforce of introduction to the group PolarionQA so automation of testing and requirements
+* Member of dedicated taskforce of introduction to the group PolarionQA so automation of testing and requirements  
+* Key responsibility: Worked on CPD (Calibration, Performance & Diagntostics) which was used to calibrate energy sensor used in Dose Control module  
 
 ### **04.2021 - 01.2022**: xBerry / ADB SafeGate  
 **Project**: OneControl  
 **Role**: Senior C++ Software Developer  
 **Description**: OneControl solution integrating control over all airport services into single application  
 **Technologies**: QtCreator, C++17, Python, SVN, Git, Jira, Confluence, BitBucket  
-* **C++17** was used to develop application and implement new features - new microservices.
-* **Python** was used for automated user interface tests and black-box testing
+* **C++17** was used to develop application and implement new features - new microservices  
+* **Python** was used for automated user interface tests and black-box testing  
 
 **Highlights**:  
 * Extraction of common python tests code into separate testing library  
-* Designed, implemented, tested and delivered new significant airfield lighting module  
+* Designed, implemented, tested and delivered new significant airfield lighting module
+* Key responsibility: Developed light management plugin to one of the One-Control submodules called MapEdit enabling modification of airport field system design  
 
 ### **03.2020 - 03.2021**: xBerry / ASML  
 **Project**: Twinscan RED Arm Development  
@@ -48,7 +50,7 @@
 **Highlights**:  
 * Successfully delivered RED Arm Framework
 * Configured & Enabled Jenkins CI/CD with Git BOA
-* As Team Leader I took ownership of the project
+* Key responsibility: As Team Leader I took ownership of the project which means successful delivery and making sure the stakeholders expectations were satisfied and exceeding expectations  
 
 <div style="page-break-after: always;"></div>
 
@@ -62,8 +64,9 @@
 * **TatukGIS** core GIS library  
 
 **Highlights**:
-* Successfully delivered & deployed onsite product according to client specification
+* Successfully delivered & deployed onsite product according to client specification  
 * Introduced scrum into company projects management
+* Key responsibility: Development of the product as SW Dev and designing SW product archutecture as SW Arch which included synchronisation between web, desktop and mobile  
 
 ### **12.2015 - 07.2016**: BrightOne Wrocław  
 **Project**: VP2/Vehicle Head Unit  
@@ -97,7 +100,7 @@
 **Courses**: Design Patterns, Software Testing with GMock & GTest, Advanced C++  
 
 ## COMPETENCIES:
-**Core Language**: C++  
+**Core Language**: C & C++  
 **Libraries**: STD, BOOST, QT  
 **Scripting**: Python  
 **Mobile**: Flutter  
@@ -105,9 +108,9 @@
 **Telecom Knowledge**: WCDMA, LTE, BTS  
 **Testing**: Google Test, Boost Test, Turtle Mock, Google Mock  
 **Software Development Methodologies**: Scrum, Waterfall  
-**Continuous Integration**: Jenkins, Teamcity  
+**CI/CD**: Jenkins, Teamcity, GitHub  
 **Version Control**: GIT, SVN, IBM Rational ClearCase  
-**Code Analysis & Coverage**: Valgrind, LCov/GCov, CppCheck  
+**Code Analysis & Coverage**: Valgrind, LCov/GCov, CppCheck, SonarQube  
 **Coding Tools**: Visual Studio, QtCreator  
 **Issue Tracking Tools**: Redmine, Trello, Jira  
 
@@ -118,7 +121,7 @@
 
 ## INTERESTED IN:
 **Cognitive Science** - combo of linguistics, psychology, artificial intelligence, philosophy, neuroscience.  
-**Cyber Security** - safety 1st.  
+**Cyber Security** - safety 1st so CTF, DevSecOps, cryptography, code obfuscation, secure coding, godbolt.org & memory dumps.
 **Reverse engineering** - rather spectating than acting but would like to develop in this area in future.  
 
 ## CERTIFICATES:
