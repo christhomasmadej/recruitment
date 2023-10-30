@@ -7,7 +7,7 @@
 
 ## COMMERCIAL PROJECTS:
 
-### **03.2021 - Now**: Team Expat / ASML  
+### **03.2022 - Now**: Team Expat / ASML  
 **Project**: Optical Column Group DUV: Projection, Illumination, Reticle Masking, Dose Control
 **Role**: Senior Software Designer
 **Description**: Working on firmware of Optical Column functional clusters
