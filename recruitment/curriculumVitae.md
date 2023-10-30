@@ -121,7 +121,7 @@
 
 ## INTERESTED IN:
 **Cognitive Science** - combo of linguistics, psychology, artificial intelligence, philosophy, neuroscience.  
-**Cyber Security** - safety 1st so CTF, DevSecOps, cryptography, code obfuscation, secure coding, godbolt.org & memory dumps.
+**Cyber Security** - safety 1st so CTF, DevSecOps, cryptography, code obfuscation, secure coding, godbolt.org & memory dumps.  
 **Reverse engineering** - rather spectating than acting but would like to develop in this area in future.  
 
 ## CERTIFICATES:
