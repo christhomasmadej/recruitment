@@ -8,15 +8,15 @@
 ## COMMERCIAL PROJECTS:
 
 ### **03.2022 - Now**: Team Expat / ASML  
-**Project**: Optical Column Group DUV: Projection, Illumination, Reticle Masking, Dose Control
-**Role**: Senior Software Designer
-**Description**: Working on firmware of Optical Column functional clusters
-**Technologies**: Wind River Workbench, IBM Rational ClearCase, DDF (DSL), IBM Rational ClearQuest, Git BOA, BitBucket, PolarionQA 
-* **C/C++17** was used to implement firmware
-* **DDF** was used as domain specific language
-* **Wind River Workbench** was used for testing and as development env (devbench, testbench)
-* **ClearCase** source control used before migration to Git & GitHub
-* **PolarionQA** requirements and generation of testing reports
+**Project**: Optical Column Group DUV: Projection, Illumination, Reticle Masking, Dose Control  
+**Role**: Senior Software Designer  
+**Description**: Working on firmware of Optical Column functional clusters  
+**Technologies**: Wind River Workbench, IBM Rational ClearCase, DDF (DSL), IBM Rational ClearQuest, Git BOA, BitBucket, PolarionQA  
+* **C/C++17** was used to implement firmware  
+* **DDF** was used as domain specific language  
+* **Wind River Workbench** was used for testing and as development env (devbench, testbench)  
+* **ClearCase** source control used before migration to Git & GitHub  
+* **PolarionQA** requirements and generation of testing reports  
 
 **Highlights**:  
 * Extending domain knowledge in embedded photolitography - one of the most crucial technologies in current era  
